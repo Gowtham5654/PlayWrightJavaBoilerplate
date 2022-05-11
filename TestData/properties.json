@@ -1,0 +1,6 @@
+{
+  "appurl": "https://opensource-demo.orangehrmlive.com/index.php/dashboard",
+  "browser": "chromium",
+  "headless": "false",
+  "videorecording": "ON"
+}
